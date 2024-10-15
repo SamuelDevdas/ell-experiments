@@ -1,0 +1,5 @@
+ell-venv
+.history
+__pycache__
+logdir
+.env
