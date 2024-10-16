@@ -3,3 +3,4 @@ ell-venv
 __pycache__
 logdir
 .env
+.vscode
